@@ -37,7 +37,8 @@ src: url(/../../../assets/fonts/Roboto-BlackItalic.ttf);
 .container {
 	background-color: #00aeef;
 	border: solid 1px #00aeef;
-	border-radius: 3px;
+  border-radius: 3px;
+  padding-top: 50px;
 }
 
 .menu {
@@ -54,6 +55,7 @@ src: url(/../../../assets/fonts/Roboto-BlackItalic.ttf);
 }
 
 .logocircle {
+  
 	text-align: center;
 	height: 120px;
 	width: 120px;
