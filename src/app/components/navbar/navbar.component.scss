@@ -29,16 +29,18 @@ src: url(/../../../assets/fonts/Roboto-BlackItalic.ttf);
 .menuButton {
 	font-family: 'Roboto', sans-serif; 
 	margin-top: 4px;
-	height: 30px;
+  height: 30px;
+  width: auto;
 	text-align: center;
-	color: #000000;
+  color: #000000;
+  
 
 }
 .container {
 	background-color: #00aeef;
 	border: solid 1px #00aeef;
   border-radius: 3px;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 .menu {
